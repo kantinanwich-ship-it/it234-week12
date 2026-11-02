@@ -25,7 +25,7 @@
       "name": "ครัวซองต์",
       "price": 60,
       "emoji": "🥐",
-      "available": ture,
+      "available": true,
       "tags": ["เบเกอรี่"]
     }
   ]
@@ -35,7 +35,7 @@
       "name": "กาเเฟลาเต้ร้อน",
       "price": 60,
       "emoji": "☕️",
-      "available": ture,
+      "available": true,
       "tags": ["ร้อน,"กาเเฟ","ขายดี"]
     }
   ]
