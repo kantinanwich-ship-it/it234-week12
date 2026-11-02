@@ -1,5 +1,5 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "Kantinan Cafe",
   "owner": "ชื่อนักศึกษา",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🍵",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -25,8 +25,18 @@
       "name": "ครัวซองต์",
       "price": 60,
       "emoji": "🥐",
-      "available": false,
+      "available": ture,
       "tags": ["เบเกอรี่"]
+    }
+  ]
+}
+{
+      "id": 4,
+      "name": "กาเเฟลาเต้ร้อน",
+      "price": 60,
+      "emoji": "☕️",
+      "available": ture,
+      "tags": ["ร้อน,"กาเเฟ","ขายดี"]
     }
   ]
 }
